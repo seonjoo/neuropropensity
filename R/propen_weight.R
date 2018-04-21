@@ -9,5 +9,4 @@
 #' ## CREATE EXAMPLE PLEASE.
 hello <- function(filelist) {
   print("Hello, world!")
-  return(zmap)
 }
